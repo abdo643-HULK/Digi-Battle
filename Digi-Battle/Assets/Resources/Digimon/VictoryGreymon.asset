@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11e7be8095038304a8823d42052f32c7, type: 3}
+  m_Name: VictoryGreymon
+  m_EditorClassIdentifier: 
+  _base: {fileID: 11400000, guid: 805c0920911f6974db261c1663aac09d, type: 2}
+  prefab: {fileID: 4228789563223100491, guid: 3c58f02a5fab73944b0a8bd0706f88c9, type: 3}
+  cards:
+  - {fileID: 11400000, guid: a298e9a419b293045b97748bdfe64cc4, type: 2}
+  enterAnimation: {fileID: -8327685873668800961, guid: 15bc46a41c7ab9a4099b21407f4c826a,
+    type: 3}
+  victoryAnimation: {fileID: -6683392220820474592, guid: 15bc46a41c7ab9a4099b21407f4c826a,
+    type: 3}
+  idleAnimation: {fileID: 6786142354665394581, guid: 15bc46a41c7ab9a4099b21407f4c826a,
+    type: 3}
+  hitAnimation: {fileID: 1075751199056608, guid: 15bc46a41c7ab9a4099b21407f4c826a,
+    type: 3}
+  basicAttackAnimation: {fileID: -1770463438568749726, guid: 15bc46a41c7ab9a4099b21407f4c826a,
+    type: 3}
+  specialAttackAnimation: {fileID: -5042331212993651677, guid: 15bc46a41c7ab9a4099b21407f4c826a,
+    type: 3}
+  jumpBackBasicAttackAnimation: {fileID: 6316513692758664788, guid: 15bc46a41c7ab9a4099b21407f4c826a,
+    type: 3}
+  jumpBackSpecialAttackAnimation: {fileID: -6972941296894825552, guid: 15bc46a41c7ab9a4099b21407f4c826a,
+    type: 3}

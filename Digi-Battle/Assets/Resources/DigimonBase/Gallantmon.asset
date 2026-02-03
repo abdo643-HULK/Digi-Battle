@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ffd25f915b626444addb1a5ef04b455, type: 3}
+  m_Name: Gallantmon
+  m_EditorClassIdentifier: 
+  id: 1
+  name: Gallantmon
+  stats:
+    hp: 5720
+    attack: 4309
+    defense: 1339
+    speed: 27
+  basicAttack:
+    type: 1
+    name: Royal Saber
+    damage: 210
+    apCost: 1
+  specialAttack:
+    type: 1
+    name: Final Elysium
+    damage: 460
+    apCost: 2

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Gallantmon-EX2-011_P2" size="0.064000 0.089451" />
+    <ImageTarget name="Victory-Greymon-2-Alt" size="0.064000 0.089302" />
+    <ImageTarget name="Chaos-Gallantmon-EX4-011_P1" size="0.064000 0.089302" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11e7be8095038304a8823d42052f32c7, type: 3}
+  m_Name: Gallantmon
+  m_EditorClassIdentifier: 
+  _base: {fileID: 11400000, guid: 812b500505dfe2b4c9fc9f1c4baaa190, type: 2}
+  prefab: {fileID: 1577394087324592723, guid: fbdb9dc8093469d4395bd85913496385, type: 3}
+  cards: []
+  enterAnimation: {fileID: -8327685873668800961, guid: 800f205dcea9ece4e810805ab050298b,
+    type: 3}
+  victoryAnimation: {fileID: -6683392220820474592, guid: 800f205dcea9ece4e810805ab050298b,
+    type: 3}
+  idleAnimation: {fileID: 6786142354665394581, guid: 800f205dcea9ece4e810805ab050298b,
+    type: 3}
+  hitAnimation: {fileID: 2963219463598164401, guid: 800f205dcea9ece4e810805ab050298b,
+    type: 3}
+  basicAttackAnimation: {fileID: -350324284236577426, guid: 800f205dcea9ece4e810805ab050298b,
+    type: 3}
+  specialAttackAnimation: {fileID: 6955343387180132933, guid: 800f205dcea9ece4e810805ab050298b,
+    type: 3}
+  jumpBackBasicAttackAnimation: {fileID: 0}
+  jumpBackSpecialAttackAnimation: {fileID: 0}
